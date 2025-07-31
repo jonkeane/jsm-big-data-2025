@@ -1,1 +1,1 @@
-Sitemap: https://github.com/jonkeane/jsm-big-data/sitemap.xml
+Sitemap: https://jonkeane.github.io/jsm-big-data-2025/sitemap.xml
